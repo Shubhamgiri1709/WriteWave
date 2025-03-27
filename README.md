@@ -100,11 +100,7 @@ This testing process follows an **Agile Methodology** to ensure continuous and i
  **Frequent Builds & Releases** – Ensuring testing is performed on updated builds.  
  **Exploratory Testing** – Conducting ad-hoc testing to uncover hidden defects.  
 
- **Documents Drive link**
- https://drive.google.com/drive/folders/1_wLxoOzvbwtGZqGP-vHX8JfRiRYSbdW8?usp=drive_link
- 
- **Explaination Video link**
- https://drive.google.com/file/d/1ryMGJidIVT21M8nvXOAk6_EQqjJaFIpK/view?usp=drive_link
+
 ~~~
 
 WritesWave/
